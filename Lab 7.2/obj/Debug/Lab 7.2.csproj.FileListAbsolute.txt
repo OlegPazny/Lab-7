@@ -1,0 +1,7 @@
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\bin\Debug\Lab 7.2.exe.config
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\bin\Debug\Lab 7.2.exe
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\bin\Debug\Lab 7.2.pdb
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\obj\Debug\Lab 7.2.csproj.AssemblyReference.cache
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\obj\Debug\Lab 7.2.csproj.CoreCompileInputs.cache
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\obj\Debug\Lab 7.2.exe
+D:\БГТУ\ООП\ЛР 7\Lab 7.2\Lab 7.2\obj\Debug\Lab 7.2.pdb
